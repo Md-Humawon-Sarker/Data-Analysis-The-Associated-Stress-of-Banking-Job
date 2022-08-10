@@ -1,5 +1,5 @@
 # Data-Analysis-The-Associated-Stress-of-Banking-Job
-"The Associated Stress of Banking Job: A Comparative Analysis  between State Owned and Private Commercial Banks in Dhaka". It was one of my Bachelor course case study research project. One of the most important parts is data collection and Analysis. 
+"The Associated Stress of Banking Job: A Comparative Analysis  between State Owned and Private Commercial Banks in Dhaka". It was one of my Bachelor course case study research project. One of the most important parts is data collection and Analysis. This analysis was done by MS Office Package.
 Methodology of The Study:
 
 This study is based on primary data. The data were collected through a well-organized questionnaire at different locations in Dhaka city and these locations were taken for representativeness and for time and funding limitations. The banks were selected based on their financial stability and most of them are second generation banks in Bangladesh.   
